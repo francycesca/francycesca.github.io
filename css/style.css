@@ -216,7 +216,7 @@ h2 {
 }
 
 /* Regola Responsive per Tablet e Smartphone */
-@media (max-width: 900px) {
+@media (max-width: 1080px) {
   .main-container,
   .col-right {
     flex-direction: column; /* Torna a colonna singola sui display piccoli */
